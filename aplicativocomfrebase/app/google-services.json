@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647680247349",
+    "project_id": "aplicativo-com-frebase",
+    "storage_bucket": "aplicativo-com-frebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647680247349:android:a94866d2dc56274343537c",
+        "android_client_info": {
+          "package_name": "com.appedson.aplicativocomfrebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647680247349-j6i5h5imc18htnqedlknf1a4ee9q27lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ulV5XVQ8u2i5YvM_9fgmcserNXATSq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647680247349-j6i5h5imc18htnqedlknf1a4ee9q27lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
